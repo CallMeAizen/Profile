@@ -67,10 +67,10 @@
 </p>
 
 <p align="left">
-&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=mahmoudamahmoud&show_icons=true&locale=en" alt="mahmoudamahmoud" />
+&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=CallMeAizen&show_icons=true&locale=en" alt="CallMeAizen" />
 </p>
 <p align="left">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudamahmoud&" alt="mahmoudamahmoud" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=CallMeAizen&" alt="CallMeAizen" />
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudamahmoud" alt="mahmoudamahmoud" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CallMeAizen" alt="CallMeAizen" /></a> </p>
